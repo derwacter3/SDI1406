@@ -23,7 +23,7 @@ var multiplicationFunction = function() {
 
 var whileLoop = function(pylons){
 	
-	while(pylons > 0) {
+	while(pylons > 0) {}
 		
 		console.log("Pylons have this much time left " + totalTimePylon);
 	}
@@ -38,12 +38,7 @@ var assimilatorFunction = function() {
 	
 };
 
-var whileloop = function(assimilators) {
-	
-	while(assimilators > 0) {
-		
-		console.log("Assimilators have this much time left " + totalTimeAssimilator)
-};
+
 
 assimilatorFunction();
 
@@ -53,13 +48,6 @@ var photonCannonFunction = function() {
 	
 	console.log("The total time for ten " + buildingThree + " will be " + totalTimePhotonCannon + " seconds.");
 	
-};
-
-var whileloop = function(photoncannons) {
-
-	while(photoncannons > 0) {
-		
-		console.log("Photon cannons have this much time left" + totalTimePhotonCannon)
 };
 
 photonCannonFunction();
