@@ -5,9 +5,9 @@
 // Project 2
 
 // Variables
-var buildingOne = "Pylon";
-var buildingTwo = "Assimilator";
-var buildingThree = "Photon Cannon";
+var buildingOne = "Pylons";
+var buildingTwo = "Assimilators";
+var buildingThree = "Photon Cannons";
 var pylonTime = 30;
 var assimilatorTime = 40;
 var photonCannonTime = 50;
